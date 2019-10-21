@@ -601,7 +601,7 @@ path-type@^1.0.0:
     pify "^2.0.0"
     pinkie-promise "^2.0.0"
 
-photon-placeholder@^1.0.13:
+photon-placeholder@1.0.13:
   version "1.0.13"
   resolved "https://registry.yarnpkg.com/photon-placeholder/-/photon-placeholder-1.0.13.tgz#fdcf8e8657918ed5d768a0f3329f65155e7b32cf"
   integrity sha512-LHayuG4ufKO2RIa3GOSIQDZjBkzvX9dpc+Cr3sxG6C+DyDDro7xKZ6yjzxq/KBLqTjRteDFK8t2YAZlth9Ap8Q==
