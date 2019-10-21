@@ -601,10 +601,10 @@ path-type@^1.0.0:
     pify "^2.0.0"
     pinkie-promise "^2.0.0"
 
-photon-placeholder@^1.0.22:
-  version "1.0.22"
-  resolved "https://registry.yarnpkg.com/photon-placeholder/-/photon-placeholder-1.0.22.tgz#fbaebcbc6c11f85bc9bf0f73778c3bd00f1d9453"
-  integrity sha512-Ku4Z44WCJ6KhqqYALNHRr22YXzpGYPP3wPfdoVOQzQyW+h5JcQeedhaxUtIE/sjxZ2cUgAKSii/2LHFY7QrQ5g==
+photon-placeholder@^1.0.23:
+  version "1.0.23"
+  resolved "https://registry.yarnpkg.com/photon-placeholder/-/photon-placeholder-1.0.23.tgz#b4f1c7201dcff4201207d309a59068f0229d1142"
+  integrity sha512-xXq9poHWqjYyaobtx707MVcpdoe2pD1KYO0Xj665HbpU3zlulClhoEC6/7WXWBblXDi9KlC4jtwVF4tjdikXAQ==
 
 pify@^2.0.0:
   version "2.3.0"
