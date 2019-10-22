@@ -13,7 +13,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "photon-placeholder": "^1.0.23",
+    "photon-placeholder": "^1.0.24",
     "prisma2": "^2.0.0-alpha.257"
   },
   "scripts": {
