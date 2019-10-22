@@ -1,1 +1,2 @@
-docker run -e .env --rm -v /abs/app/path:/tmp/app gliderlabs/herokuish /bin/herokuish test
+#!/bin/sh
+docker run -e .env --rm -v $(pwd):/tmp/app gliderlabs/herokuish /bin/herokuish test
